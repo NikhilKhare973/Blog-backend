@@ -1,0 +1,10 @@
+backend run :- npm run dev
+
+
+monogdb name and password
+       nikhil --> E3K8T8AcSS98vp4G
+
+
+
+MongoDB Compass stning
+mongodb+srv://nikhil:E3K8T8AcSS98vp4G@cluster0.wdwrcjq.mongodb.net/
