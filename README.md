@@ -23,6 +23,11 @@ A blog website's backend serves as the server-side infrastructure that handles d
 - Express.js.
 - MongoDB compress.
 
+![App Screenshot](screenshot/Screenshot4.png)
+![App Screenshot](screenshot/Screenshot5.png)
+![App Screenshot](screenshot/Screenshot6.png)
+
+
 ### Key components
 
 - Database Management:
@@ -33,6 +38,10 @@ A blog website's backend serves as the server-side infrastructure that handles d
 - Search and Filtering:
 - Server-Side Logic:
 - Popular technologies for building blog website backends include Node.js with frameworks like Express.js, Python with frameworks like Django or Flask, PHP with frameworks like Laravel, and others like Ruby on Rails or Java-based solutions. The choice of technology depends on factors such as project requirements, scalability needs, and developer preferences.
+
+![App Screenshot](screenshot/Screenshot7.png)
+![App Screenshot](screenshot/Screenshot8.png)
+![App Screenshot](screenshot/Screenshot9.png)
 
 
 ## Usage
@@ -45,18 +54,16 @@ Install the dependencies using npm
 
 To start the development server run the following command :
 
-# Server back-end
+# Server back-end & backend run
 ```bash
-cd Server
-
-npm start 
+npm run dev
 ```
-# Todolist front-end
-```bash
-cd todolist
 
-npm npm run dev 
-```
+
+![App Screenshot](screenshot/Screenshot10.png)
+![App Screenshot](screenshot/Screenshot11.png)
+![App Screenshot](screenshot/Screenshot12.png)
+
 
 
 
