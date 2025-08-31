@@ -8,9 +8,9 @@
 
 A blog website's backend serves as the server-side infrastructure that handles data storage, retrieval, and management. It provides the core functionality that allows users to create, publish, and interact with blog content.
 
-![App Screenshot](screenshort/Screenshot1.png)
-![App Screenshot](screenshort/Screenshot2.png)
-![App Screenshot](screenshort/Screenshot3.png)
+![App Screenshot](screenshot/Screenshot1.png)
+![App Screenshot](screenshot/Screenshot2.png)
+![App Screenshot](screenshot/Screenshot3.png)
 
 
 ## Key components and functions of a blog website backend include:
@@ -57,6 +57,7 @@ cd todolist
 
 npm npm run dev 
 ```
+
 
 
 
